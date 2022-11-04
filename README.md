@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladarooni / Vlada
-- 👀 I’m interested in computer science and creating connections
+- 👀 I’m interested in computer science and meeting like-minded people!
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on simple projects that are beginner friendly
 - 📫 How to reach me: Instagram via: (https://www.instagram.com/_vladislavi_/)
