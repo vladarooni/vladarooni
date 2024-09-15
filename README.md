@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vlada!
-- 💻 I'm passionate about coding and technology, and I love working with a variety of languages.
-- 🌐 I'm experienced with a range of software and development environments, like Visual Studio 2019, Unity, and QT Creator.
+- 💻 I'm passionate about programming and cars!
 - ✉️ Contact me through my [Instagram](https://www.instagram.com/vladislavi.png/)!
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslavabondarenko/)!
 
